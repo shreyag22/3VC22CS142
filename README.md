@@ -1,1 +1,3 @@
 # 3VC22CS142
+THIS IS MY FIRST REPOSITRY
+author shreya gouda
